@@ -1,0 +1,13 @@
+{
+  "DatabaseConnectionString": "Data Source=server.domain.com;Initial Catalog=Craal;Integrated Security=True;Connect Timeout=30;Encrypt=True;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
+  "GenericAWSAccessKey": "AWSACCESSKEYHERE",
+  "GenericAWSSecretKey": "AWSSECRETKEYGERE",
+  "GitHubToken": "GITHUBTOKENHERE",
+  "GitHubUserAgent": "GITHUBUSERNAME (Craal)",
+  "StartAmazonS3Processor": true,
+  "StartCertStreamProcessor": true,
+  "StartDownloadProcessor": true,
+  "StartGitHubProcessor": true,
+  "StartPasteBinProcessor": true,
+  "StartProtoxinProcessor": true
+}
