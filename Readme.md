@@ -1,5 +1,6 @@
 # Craal
 Automating search and retrieval of data you think is interesting
+
 Video from Hackfest 2018 here: https://www.youtube.com/watch?v=EzSRX8mKQ8M
 
 ## Table of Contents
